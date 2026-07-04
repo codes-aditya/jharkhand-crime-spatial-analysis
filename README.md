@@ -1,3 +1,4 @@
+
 # HotSpot JH 🗺️
 ### Spatial Analysis of Crime Patterns in Jharkhand
 
@@ -65,3 +66,4 @@ hotspot-jh/
 
 ## 📄 License
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+ ef96325ac56211e25e224ddf0425146b29539d04
