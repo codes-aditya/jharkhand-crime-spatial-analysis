@@ -1,0 +1,10 @@
+pandas
+numpy
+geopandas
+matplotlib
+seaborn
+libpysal
+esda
+splot
+spreg
+jupyter
